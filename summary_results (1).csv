@@ -1,0 +1,13 @@
+test_id,test_name,duration_days,conv_rate_a,conv_rate_b,true_lift_pct,bayesian_day,frequentist_day,days_saved,pct_faster,final_prob_b
+TEST_01,Thumbnail Style,28,0.08,0.125,56.2,7,7,0,0.0,1.0
+TEST_02,Autoplay Preview,21,0.12,0.155,29.2,21,21,0,0.0,0.902
+TEST_03,Email Subject Line,35,0.055,0.09,63.6,5,6,1,16.7,0.997
+TEST_04,Homepage Layout,14,0.15,0.175,16.7,3,3,0,0.0,0.936
+TEST_05,Recommendation Algo,28,0.18,0.215,19.4,28,28,0,0.0,0.49
+TEST_06,Signup Flow,21,0.22,0.28,27.3,15,21,6,28.6,0.93
+TEST_07,Push Notification,42,0.09,0.108,20.0,42,42,0,0.0,0.897
+TEST_08,Pricing Page Copy,28,0.11,0.155,40.9,4,6,2,33.3,1.0
+TEST_09,Watchlist CTA,21,0.14,0.172,22.9,1,10,9,90.0,0.997
+TEST_10,Continue Watching UI,14,0.16,0.19,18.8,2,14,12,85.7,0.755
+TEST_11,Search Results Layout,35,0.1,0.14,40.0,35,35,0,0.0,0.786
+TEST_12,Trailer Autoplay,28,0.13,0.195,50.0,15,22,7,31.8,0.999
